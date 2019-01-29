@@ -25,8 +25,10 @@ Besides，the table in each database you need to create before if necessary. You
 
 Start benchmark
 
-java -jar  benchmark.jar
+ `java -jar  benchmark.jar`
 
-enter localhost:8089/benchmark/index
+Enter 
+
+`localhost:8089/benchmark/index`
 
 and then you can use it.
