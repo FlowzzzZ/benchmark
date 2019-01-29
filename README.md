@@ -1,4 +1,4 @@
-# benchmark
+# Benchmark
 For Benchmark users, please follow the instructions below to deploy Benchmark in your environment. Note that there are some dependencies that should be installed firstly.
 
 You need to install following items
