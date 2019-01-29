@@ -1,0 +1,2 @@
+benchmark.jar filter=lfs diff=lfs merge=lfs -text
+benchmark.rar filter=lfs diff=lfs merge=lfs -text
