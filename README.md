@@ -27,7 +27,7 @@ Start benchmark
 
  `java -jar  benchmark.jar`
 
-Enter 
+Visit
 
 `localhost:8089/benchmark/index`
 
