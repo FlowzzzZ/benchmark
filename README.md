@@ -18,7 +18,13 @@ Firstly, you need to install and configure these software products, here we use 
 
 Before you start benchmark, you must config two files. One file is in the /benchmark/BOOT-INF/classes/application-longyuan.properties, the other is in the /benchmark/BOOT-INF/classes/com/test/config, if you have any config error, check out these two files.
 
+Besides，the table in each database you need to create before if it necessary. You can refer the ch.csv to format your table. 
+
+
+
+
 Start benchmark
+
 java -jar  benchmark.jar
 
 enter localhost:8089/benchmark/index
